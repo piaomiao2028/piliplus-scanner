@@ -1,0 +1,5 @@
+id=com.piaomiao.pilipala.scan
+name=PiLiPala 扫码
+version=1.0
+versionCode=1
+description=悬浮球扫码：扫 BV/av/短链直接进视频页，扫登录二维码用 PiLiPala / PiliPlus 当前账号确认登录
