@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PiLiPala 扫码</string>
+
+    <!-- LSPosed 作用域：PiLiPala 与它的开源改版 PiliPlus -->
+    <array name="xposedscope">
+        <item>com.guozhigq.pilipala</item>
+        <item>com.example.piliplus</item>
+    </array>
+</resources>
